@@ -3,7 +3,7 @@
 - 👀 I’m interested in Full-Stack Web Development 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with people which I can socialize and participate in Projects  , which will help me and the group to expand knowledge 
-, also help each-other reach our certain point of our lifes , which we will be able to answers question on Stack Overflow( a little inside joke).
+, also help each-other reach our certain point of our lifes , which we will be able to answers questions on Stack Overflow( a little inside joke).
 
 
 - 📫 How to reach me:
